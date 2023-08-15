@@ -4,3 +4,36 @@
   box-sizing: border-box;
 }
 
+:root {
+  --cor0: black;
+  --cor1: white;
+  --cor2: #d02716;
+  --cor3: #0597f2;
+  --cor4: #fde538;
+  --cor5: #1d1e1f;
+
+  --fonte-texto: "Poppins", sans-serif;
+  --fonte-titulo: "Bungee Inline", cursive;
+}
+#nav {
+  background-color: var(--cor0);
+  font-family: var(--fonte-texto);
+}
+
+#link1{
+  color:var(--cor4);
+  font-family: var(--fonte-titulo);
+}
+#link2 {
+  color: white;
+}
+#link2:hover {
+  background-color: rgba(0, 0, 0, 0);
+  color: var(--cor4);
+}
+#logo {
+  width: 40px;
+  height: 35px;
+  border: solid 2px #fde538;
+  border-radius: 50%;
+}
