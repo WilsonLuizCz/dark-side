@@ -20,8 +20,8 @@
   font-family: var(--fonte-texto);
 }
 
-#link1{
-  color:var(--cor4);
+#link1 {
+  color: var(--cor4);
   font-family: var(--fonte-titulo);
 }
 #link2 {
@@ -36,4 +36,8 @@
   height: 35px;
   border: solid 2px #fde538;
   border-radius: 50%;
+}
+#span1 {
+  font-family: var(--fonte-texto);
+  color: var(--cor2);
 }
