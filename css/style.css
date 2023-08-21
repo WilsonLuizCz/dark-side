@@ -11,6 +11,7 @@
   --cor3: #0597f2;
   --cor4: #fde538;
   --cor5: #1d1e1f;
+  --cor6: #f17d72;
 
   --fonte-texto: "Poppins", sans-serif;
   --fonte-titulo: "Bungee Inline", cursive;
@@ -39,5 +40,29 @@
 }
 #span1 {
   font-family: var(--fonte-texto);
-  color: var(--cor2);
+  color: var(--cor0);
+}
+#h1 {
+  font-family: var(--fonte-titulo);
+  color: #fde538;
+}
+#section1 {
+  background-color: #1d1e1f;
+}
+#texto1 {
+  text-align: justify;
+  color: white;
+  font-family: var(--fonte-texto);
+  line-height: 1.7;
+  font-size: medium;
+}
+#texto2 {
+  text-align: center;
+  color: white;
+  font-family: var(--fonte-texto);
+  line-height: 1.7;
+  font-size: large;
+}
+#seta {
+  color: #d02716;
 }
