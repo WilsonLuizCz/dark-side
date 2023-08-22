@@ -77,4 +77,16 @@
   width: 190px;
   margin: auto;
 }
+#span{
+  font-family: var(--fonte-texto);
+  font-size: small;
+  font-weight: 600;
+  color: #fde538;
+  background-color: #1d1e1f;
+  padding: 2px 3px;
+  border-radius: 8px;
+}
+#span2{
+  color: #e9d434;
+}
 
