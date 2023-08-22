@@ -104,4 +104,9 @@
   font-size: 1rem;
   color: #beb03e;
 }
-
+#texto3 {
+  font-size: large;
+  color: white;
+  font-family: var(--fonte-texto);
+  line-height: 1.7;
+}
