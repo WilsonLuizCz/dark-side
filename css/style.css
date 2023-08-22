@@ -54,15 +54,27 @@
   color: white;
   font-family: var(--fonte-texto);
   line-height: 1.7;
-  font-size: medium;
+  font-size: large;
 }
 #texto2 {
   text-align: center;
-  color: white;
+  color: #0597f2;
   font-family: var(--fonte-texto);
   line-height: 1.7;
-  font-size: large;
+  font-size: larger;
 }
 #seta {
   color: #d02716;
 }
+#section2 {
+  background-color: black;
+}
+#card {
+  border: 2px solid #fde538 ;
+  font-family: var(--fonte-texto);
+}
+#img1 {
+  width: 190px;
+  margin: auto;
+}
+
