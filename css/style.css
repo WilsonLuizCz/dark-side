@@ -77,6 +77,14 @@
   width: 190px;
   margin: auto;
 }
+#img2 {
+  width: 234px;
+  margin: auto;
+}
+#img3 {
+  width: 117px;
+  margin: auto;
+}
 #span{
   font-family: var(--fonte-texto);
   font-size: small;
