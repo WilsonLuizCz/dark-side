@@ -145,3 +145,6 @@
   width: 100%;
   z-index: 1;
 }
+#obs {
+  font-size: small;
+}
