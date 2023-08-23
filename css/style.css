@@ -70,8 +70,9 @@
   background-color: black;
 }
 #card {
-  border: 2px solid #fde538 ;
+  border: 2px solid #fde538;
   font-family: var(--fonte-texto);
+  
 }
 #img1 {
   width: 190px;
@@ -85,7 +86,7 @@
   width: 117px;
   margin: auto;
 }
-#span{
+#span {
   font-family: var(--fonte-texto);
   font-size: small;
   font-weight: 600;
@@ -94,13 +95,13 @@
   padding: 2px 3px;
   border-radius: 8px;
 }
-#span2{
+#span2 {
   color: #e9d434;
 }
 #section3 {
   background-color: #1d1e1f;
 }
-#p1{
+#p1 {
   font-size: 1rem;
   color: #beb03e;
 }
@@ -109,4 +110,38 @@
   color: white;
   font-family: var(--fonte-texto);
   line-height: 1.7;
+}
+#texto4 {
+  font-size: large;
+  color: white;
+  font-family: var(--fonte-texto);
+  line-height: 1.7;
+}
+#section4 {
+  background-color: var(--cor0);
+}
+#icon {
+  color: var(--cor3);
+}
+#link3 {
+  text-decoration: none;
+  font-family: var(--fonte-texto);
+  font-size: large;
+  color: white;
+}
+#link3:hover {
+  text-decoration: none;
+  color: #beb03e;
+}
+#section5 {
+  font-family: var(--fonte-texto);
+  font-size: small;
+  font-weight: 700;
+  background-color: white;
+  color: black;
+}
+#nav {
+  position: fixed;
+  width: 100%;
+  z-index: 1;
 }
