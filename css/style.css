@@ -149,9 +149,11 @@
   font-size: medium;
 }
 #sabre1 {
-  width: 300px;
+  width: 200px;
+  margin: auto;
 }
 #sabre2{
   padding-top: 100px;
-  width: 300px;
+  width: 200px;
+  margin: auto;
 }
