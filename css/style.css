@@ -121,7 +121,7 @@
   background-color: var(--cor0);
 }
 #icon {
-  color: var(--cor3);
+  color: var(--cor4);
 }
 #link3 {
   text-decoration: none;
@@ -145,15 +145,27 @@
   width: 100%;
   z-index: 1;
 }
-#obs {
-  font-size: medium;
-}
-#sabre1 {
-  width: 200px;
+#img4 {
+  width: 242px;
   margin: auto;
 }
-#sabre2{
-  padding-top: 100px;
-  width: 200px;
+#img5 {
+  width: 190px;
+  margin: auto;
+}
+#img6 {
+  width: 190px;
+  margin: auto;
+}
+#img7 {
+  width: 190px;
+  margin: auto;
+}
+#img8 {
+  width: 190px;
+  margin: auto;
+}
+#img9 {
+  width: 140px;
   margin: auto;
 }
