@@ -67,7 +67,7 @@
   color: #d02716;
 }
 #section2 {
-  background-color: black;
+  background-color: rgb(12, 12, 12);
 }
 #card {
   border: 2px solid #fde538;
@@ -172,3 +172,20 @@
 #imgcar {
   width: 200px;
   margin: auto;}
+
+#imgoferta1{
+  width: 278px;
+  margin: auto;}
+
+#imgoferta2{
+    width: 270px;
+    margin: auto;}
+
+#imgoferta3{
+      width: 200px;
+      margin: auto;}
+
+#sectionoff {
+        background-color:#beb03e;
+      }
+
